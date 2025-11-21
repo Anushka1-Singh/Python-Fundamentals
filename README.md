@@ -1,3 +1,9 @@
 # Python-Fundamentals
-my python fundamentals practice repository
-Python topics covered so far : variables, conditions , loops , functions
+
+This is my Python fundamentals practice repository.
+
+## Topics Covered So Far
+- Variables  
+- Conditions  
+- Loops  
+- Functions
